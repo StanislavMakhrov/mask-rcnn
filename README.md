@@ -27,7 +27,7 @@
    
         pip install -r requirements.txt
 
-# Running
+# Launch
 
 Switch on your webcam and run the following command:
 
