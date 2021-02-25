@@ -3,8 +3,9 @@
 1. Clone this repository.
 
 2. Install python 3.8.7:
-For Windows:
-   https://www.python.org/ftp/python/3.8.7/python-3.8.7-amd64.exe
+
+   For Windows:
+      https://www.python.org/ftp/python/3.8.7/python-3.8.7-amd64.exe
    
    For Debian Linux:
    
