@@ -9,19 +9,15 @@
    
    For Debian Linux:
    
-       apt install python3
+       apt install pyenv
+       pyenv install -v 3.8.7
+       pyenv global 3.8.7
    
    For Ubuntu Linux:
    
        sudo add-apt-repository ppa:deadsnakes/ppa
        sudo apt update
        apt install python3.8
-   
-   For Linux via PyEnv:
-   
-       apt install pyenv
-       pyenv install -v 3.8.7
-       pyenv global 3.8.7
 
 3. Enter to the folder of cloned repository on your local PC and install python packges from requirements.txt:
    
