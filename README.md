@@ -30,4 +30,4 @@ For Linux via PyEnv:
 
 Switch on your webcam and run the following command:
 
-    python mask_rcnn_video.py --mask-rcnn mask-rcnn-cococ
+    python mask_rcnn_video.py --mask-rcnn mask-rcnn-coco
