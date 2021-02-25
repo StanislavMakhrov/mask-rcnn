@@ -25,6 +25,6 @@
 
 # Launch
 
-Switch on your webcam and run the following command:
+Switch on your webcam and run the following command from the root folder of cloned repository:
 
     python mask_rcnn_video.py --mask-rcnn mask-rcnn-coco
