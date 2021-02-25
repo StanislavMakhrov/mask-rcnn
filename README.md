@@ -1,4 +1,4 @@
-#Installation
+# Installation
 
 1. Clone this repository.
 
@@ -26,7 +26,7 @@ For Windows:
    
         pip install -r requirements.txt
 
-#Running
+# Running
 
 Switch on your webcam and run the following command:
 
